@@ -1,0 +1,2 @@
+redux flow:
+type -> action -> reducer -> combined reducer -> component -> app component
