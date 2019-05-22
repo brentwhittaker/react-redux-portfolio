@@ -44,6 +44,10 @@ React-redux portfolio app with multiple bundled projects
 ## Design patterns
 - **Pub/Sub** is a pattern that enables communication in a network based on publishing messages to channels, and subscribing to those messages.
 
+## Tools
+
+[Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension)
+
 ## Glossary
 Components: Reusable pieces of the application UI that has inner dynamic functionality and state.
 
