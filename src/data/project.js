@@ -5,24 +5,24 @@ import project3 from "../assets/project3.png";
 const PROJECTS = [
   {
     id: 1,
-    title: "Tron Protocol",
+    title: "SpaceX",
     description:
-      "TRON is one of the largest blockchain-based operating systems in the world.",
-    link: "https://tron.network/",
+      "Designs, manufactures and launches advanced rockets and spacecraft.",
+    link: "https://www.spacex.com/",
     image: project1
   },
   {
     id: 2,
-    title: "Tether USDT",
-    description: "Open blockchain technology and traditional currency.",
-    link: "https://tether.to/",
+    title: "Blue Origin",
+    description: "Earth, in all its beauty, is just our starting place.",
+    link: "https://www.blueorigin.com/",
     image: project2
   },
   {
     id: 3,
-    title: "Amazon Web Services",
-    description: "Scalable cloud services for software engineers",
-    link: "https://aws.amazon.com/",
+    title: "Tesla",
+    description: "Accelerating the world's transition to sustainable energy.",
+    link: "https://www.tesla.com/",
     image: project3
   }
 ];
