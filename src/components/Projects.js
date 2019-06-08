@@ -15,7 +15,7 @@ const Project = props => {
 
 const Projects = () => (
   <div>
-    <h2>Infrastructure</h2>
+    <h2>Cool Tech</h2>
     <div>
       {PROJECTS.map(PROJECT => (
         <Project key={PROJECT.id} project={PROJECT} />
